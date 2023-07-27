@@ -1,0 +1,7 @@
+name: springboot
+
+namespace: default
+
+image:
+  repository: madan712/hello-springboot
+  tag: 1.3

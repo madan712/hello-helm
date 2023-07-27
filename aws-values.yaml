@@ -1,0 +1,7 @@
+name: springboot
+
+namespace: default
+
+image:
+  repository: 695663959248.dkr.ecr.us-east-1.amazonaws.com/hello-springboot
+  tag: 1.2
